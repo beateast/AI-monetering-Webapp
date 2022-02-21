@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+}
+.heading:hover {
+    background-color: aqua;
+    text-align: center;
+}
+.note {
+    color: red;
+    font-size: 15px;
+}
